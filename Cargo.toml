@@ -1,5 +1,5 @@
 [package]
-name = "Network-programming-with-Rust"
+name = "network_programming_with_rust"
 version = "0.1.0"
 edition = "2021"
 
